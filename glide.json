@@ -1,0 +1,68 @@
+[
+  {
+    "kind": "column",
+    "name": "Convert list of booleans to text",
+    "description": "Convert list of booleans to a comma-delimited list",
+    "author": "Thinh Dinh <thinh@lowcode.agency>",
+    "params": [
+      {
+        "name": "bool1",
+        "displayName": "Boolean 1",
+        "type": "string"
+      },
+       {
+        "name": "text1",
+        "displayName": "Text value for boolean 1",
+        "type": "string"
+      },  
+      { 
+        "name": "bool2",
+        "displayName": "Boolean 2",
+        "type": "string"
+      },
+       {
+        "name": "text2",
+        "displayName": "Text value for boolean 2",
+        "type": "string"
+      },   
+      { 
+        "name": "bool3",
+        "displayName": "Boolean 3",
+        "type": "string"
+      },
+       {
+        "name": "text3",
+        "displayName": "Text value for boolean 3",
+        "type": "string"
+      },    
+      { 
+        "name": "bool4",
+        "displayName": "Boolean 4",
+        "type": "string"
+      },
+       {
+        "name": "text4",
+        "displayName": "Text value for boolean 4",
+        "type": "string"
+      }, 
+      { 
+        "name": "bool5",
+        "displayName": "Boolean 5",
+        "type": "string"
+      },
+      {
+        "name": "text5",
+        "displayName": "Text value for boolean 5",
+        "type": "string"
+      },
+      {
+        "name": "Other",
+        "displayName": "Text value for other field",
+        "type": "string"
+      }      
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
